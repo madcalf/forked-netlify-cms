@@ -53,8 +53,8 @@
     "react-immutable-proptypes": "^2.1.0"
   },
   "devDependencies": {
-    "commonmark": "^0.29.0",
-    "commonmark-spec": "^0.29.0",
+    "commonmark": "^0.30.0",
+    "commonmark-spec": "^0.30.0",
     "slate-hyperscript": "^0.13.3"
   }
 }
